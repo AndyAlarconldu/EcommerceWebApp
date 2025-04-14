@@ -1,0 +1,13 @@
+# Ignorar la base de datos
+db.sqlite3
+
+# Archivos y carpetas de VS Code
+.vscode/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+
+# Archivos de entorno virtual
+env/
+venv/
